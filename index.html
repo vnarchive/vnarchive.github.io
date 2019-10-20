@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.14.2/bootstrap-table.min.css" integrity="sha256-pxMFc5RPsIXrouYF4MXPEQe5TtTv+LVM0pyiWDWHyFY=" crossorigin="anonymous" />
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('a[data-toggle="tooltip"]').tooltip({
+            animated: 'fade',
+            placement: 'bottom',
+            html: true
+        });
+      });
+    </script>
+    <style>
+      table.table-fit {
+          width: auto !important;
+          table-layout: auto !important;
+      }
+      table.table-fit thead th, table.table-fit tfoot th {
+          width: auto !important;
+      }
+      table.table-fit tbody td, table.table-fit tfoot td {
+          width: auto !important;
+      }
+    </style>
+    
+    <title>VNDB List</title>
+  </head>
+
+  <body class="background-color: #a9a9a9;">
+    <div class="container">
+          <table class="table table-bordered table-striped table-dark table-fit" data-search="true" data-sortable="true" data-toggle="table" data-pagination="true" data-pagination-v-align="both" data-pagination-pre-text="Previous" data-pagination-next-text="Next" style="height:auto; width:100%">
+            <thead>
+              <tr>
+                <th>&nbsp;</th>
+                <th>VNDB ID</th>
+                <th>VN Name</th>
+                <th>Released Date</th>
+                <th>Developer</th>
+                <th>Publisher</th>
+                <th>Link</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+              <tr data-toggle="collapse" data-target=".v1" class="accordion-toggle">
+                <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-eye-open"></span></button></td>
+                <td>1</td>
+                <td><a href=\"https://vndb.org/v1\">Minna de Nyan Nyan
+                  <br />みんなでニャンニャン</a></td>
+                <td>2003-10-17</td>
+                <td>Yamikumo-Communications
+                  <br />闇雲通信</a></td>
+                <td>Yamikumo-Communications
+                  <br />闇雲通信
+                  <br />G-Collections
+                  <br />JAST USA</a></td>
+                <td></td>
+              </tr>
+                <tr class="v1 collapse">
+                  <td></td>
+                  <td></td>
+                  <td style='height:auto; width:auto'>Minna de Nyan Nyan - DVD-ROM Regular Edition
+                    <br />みんなでニャンニャン DVD-ROM版 通常版</td>
+                  <td>2003-10-17</td>
+                  <td>Yamikumo-Communications
+                    <br />闇雲通信</td>
+                  <td>Yamikumo-Communications
+                    <br />闇雲通信</td>
+                  <td><a href=\"https://vndb.org/v1\">Download</a></td>
+                </tr>
+                <tr class="v1 collapse">
+                  <td></td>
+                  <td></td>
+                  <td style='height:auto; width:auto'>Let's Meow Meow! - Package Edition</td>
+                  <td>2004-08-17</td>
+                  <td></td>
+                  <td>G-Collections</td>
+                  <td><a href=\"https://vndb.org/v1\">Download</a></td>
+                </tr>
+
+            </tbody>
+          </table>
+        </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.14.2/bootstrap-table.min.js" integrity="sha256-/xffGMKcg3EPCNGt1lHxJ9dN/eMlD8noOvtptABHRls=" crossorigin="anonymous"></script>
+  </body>
+</html>
