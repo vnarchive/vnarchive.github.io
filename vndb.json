@@ -41,7 +41,7 @@
     "1999-06-25",
     "D.O.<br />株式会社ディーオー",
     "D.O.<br />株式会社ディーオー",
-    "<a href=\"https://ouo.io/XwwTxb\">Download (490.6 MB)</a>",
+    "<a href=\"https://ouo.io/XwwTxb\">Download (490.6 MB)</a><br /><a href=\"https://ouo.io/fvuktM\">Special Sound Album (309.9 MB)</a>",
     "Japanese"
   ],
   [
@@ -113,7 +113,7 @@
     "2002-04-26",
     "Leaf<br />リーフ",
     "Aquaplus",
-    "<a href=\"#\">Missing</a><br /><a href=\"https://ouo.io/fPh2RSY\">OST (429.2 MB)</a><br /><a href=\"https://ouo.io/1t2ok4\">Visual Works (115.7 MB)</a>",
+    "MISSING<br /><a href=\"https://ouo.io/fPh2RSY\">OST (429.2 MB)</a><br /><a href=\"https://ouo.io/1t2ok4\">Visual Works (115.7 MB)</a>",
     "Japanese"
   ],
   [
@@ -122,7 +122,7 @@
     "2003-06-19",
     "Leaf<br />リーフ",
     "Aquaplus",
-    "<a href=\"#\">Missing</a>",
+    "MISSING",
     "Japanese"
   ],
   [
@@ -361,21 +361,66 @@
   ],
   [
     "v8",
-    "<a href=\"https://vndb.org/v8\"></a>",
+    "<a href=\"https://vndb.org/v8\">Natsu no Hi no Resonance<br />夏の日のレザナンス</a>",
     "",
-    "",
+    "Kagura Saitoh<br />彩藤神楽",
     "",
     "",
     ""
   ],
   [
+    "v8 (r176)",
+    "Natsu no Hi no Resonance<br />夏の日のレザナンス",
+    "2002-07-01",
+    "Kagura Saitoh<br />彩藤神楽",
+    "Kagura Saitoh<br />彩藤神楽",
+    "<a href=\"https://ouo.io/tqZZ4JU\">Download (2.4 MB)</a>",
+    "Japanese"
+  ],
+  [
+    "v8 (r177)",
+    "A Midsummer Day's Resonance",
+    "2005-05-15",
+    "",
+    "Insani",
+    "<a href=\"https://ouo.io/8T3pwF\">Download (24.8 MB)</a>",
+    "English"
+  ],
+  [
     "v9",
-    "<a href=\"https://vndb.org/v9\"></a>",
+    "<a href=\"https://vndb.org/v9\">Bible Black -La Noche de Walpurgis-<br />バイブルブラック</a>",
     "",
-    "",
+    "Active<br />アクティブ",
     "",
     "",
     ""
+  ],
+  [
+    "v9 (r12097)",
+    "Bible Black -La Noche de Walpurgis- Regular Edition<br />Bible Black -La noche de Walpurgis- 通常版",
+    "2000-07-14",
+    "Active<br />アクティブ",
+    "Active<br />アクティブ",
+    "<a href=\"https://ouo.io/aCJX5t\">Download (852.8 MB)</a><br /><a href=\"https://ouo.io/fG0xfh\">Windows 10 Fix (324.3 MB)</a><br /><a href=\"https://ouo.io/tEF8WHK\">Visual Art Works (19.0 MB)</a><br /><a href=\"https://ouo.io/DywDws\">Bonus CD (389.7 MB)</a>",
+    "Japanese"
+  ],
+  [
+    "v9 (r183)",
+    "Bible Black - The Game",
+    "2006-11-21",
+    "",
+    "Kitty Media",
+    "<a href=\"https://ouo.io/6oDO6T\">Download (351.8 MB)</a>",
+    "English"
+  ],
+  [
+    "v9 (r49773)",
+    "Hei'an Shengjing<br />黑暗圣经",
+    "2016-12-28",
+    "",
+    "Yin Mao Hanhuazu<br />银猫汉化组",
+    "<a href=\"https://ouo.io/AV6WnJ\">Download (318.4 MB)</a>",
+    "Chinese"
   ],
   [
     "v10",
@@ -133102,12 +133147,21 @@
   ],
   [
     "v14739",
-    "<a href=\"https://vndb.org/v14739\"></a>",
+    "<a href=\"https://vndb.org/v14739\">The Reject Demon: Toko</a>",
     "",
-    "",
+    "Lupiesoft",
     "",
     "",
     ""
+  ],
+  [
+    "v14739 (r39237)<br />v14739 (r54783)",
+    "The Reject Demon: Toko Chapter 0 — Prelude<br />The Reject Demon: Toko — Remix",
+    "2015-05-09<br />2017-12-11",
+    "Lupiesoft",
+    "Sekai Project",
+    "<a href=\"https://ouo.io/Et8ZvTY\">Download (642.6 MB)</a><br /><a href=\"https://ouo.io/DlpUYfT\">OST (34.7 MB)</a>",
+    "English & Japanese"
   ],
   [
     "v14740",
@@ -142417,12 +142471,21 @@
   ],
   [
     "v15771",
-    "<a href=\"https://vndb.org/v15771\"></a>",
+    "<a href=\"https://vndb.org/v15771\">Kokuchou no Psychedelica<br />黒蝶のサイケデリカ</a>",
     "",
-    "",
+    "Otomate<br />オトメイト<br />Sting<br />スティング",
     "",
     "",
     ""
+  ],
+  [
+    "v15771 (r59387)",
+    "Psychedelica of the Black Butterfly / Geom-eun Nabiui Saikidellika / Hei Die Huanjing<br />Psychedelica of the Black Butterfly/검은 나비의 사이키델리카/黑蝶幻境",
+    "2018-11-15",
+    "Otomate<br />オトメイト",
+    "Idea Factory Co., Ltd.<br>アイディアファクトリー株式会社<br />INTRAGAMES<br />인트라게임즈",
+    "<a href=\"https://ouo.io/ofUYcg\">Download (2.97 GB)</a><br /><a href=\"https://ouo.io/0iYdS6\">Wallpaper (10.3 MB)</a><br /><a href=\"https://ouo.io/X7jbop\">Artbook (98.6 MB)</a><br /><a href=\"https://ouo.io/z3bVhO\">OST (43.9 MB)</a>",
+    "English + Chinese + Korean Version 19.06.11"
   ],
   [
     "v15772",
@@ -163999,11 +164062,20 @@
   ],
   [
     "v18162",
-    "<a href=\"https://vndb.org/v18162\"></a>",
+    "<a href=\"https://vndb.org/v18162\">7'scarlet<br />セブンスカーレット</a>",
+    "",
+    "Otomate<br />オトメイト<br />Toybox Inc.<br />トイボックス株式会社",
     "",
     "",
+    ""
+  ],
+  [
+    "v18162 (r60870)",
+    "7'scarlet",
+    "2019-03-12",
     "",
-    "",
+    "INTRAGAMES<br />인트라게임즈",
+    "<a href=\"https://ouo.io/CuwgpJ\">Download (2.86 GB)</a><br /><a href=\"https://ouo.io/xU85yg\">Wallpaper (7.9 MB)</a>",
     ""
   ],
   [
@@ -168337,14 +168409,23 @@
   ],
   [
     "v18643",
-    "<a href=\"https://vndb.org/v18643\"></a>",
+    "<a href=\"https://vndb.org/v18643\">Haitaka no Psychedelica<br />灰鷹のサイケデリカ</a>",
     "",
-    "",
+    "Idea Factory Co., Ltd.<br />アイディアファクトリー株式会社<br />Otomate<br />オトメイト",
     "",
     "",
     ""
   ],
   [
+  [
+    "v18643 (r62173)",
+    "Psychedelica of the Ashen Hawk",
+    "2019-08-30",
+    "",
+    "INTRAGAMES<br />인트라게임즈",
+    "<a href=\"https://ouo.io/oW5pzu\">Download (4.33 GB)</a>",
+    "English + Chinese + Korean"
+  ],
     "v18644",
     "<a href=\"https://vndb.org/v18644\"></a>",
     "",
@@ -203518,12 +203599,21 @@
   ],
   [
     "v22542",
-    "<a href=\"https://vndb.org/v22542\"></a>",
+    "<a href=\"https://vndb.org/v22542\">Yeguang<br />夜光</a>",
     "",
-    "",
+    "CreSpirit<br />Narrator<br />Storia",
     "",
     "",
     ""
+  ],
+  [
+    "v22542 (r55645)",
+    "A Light in the Dark - Download Edition",
+    "2018-06-15",
+    "CreSpirit<br />Narrator<br />Storia",
+    "Sekai Project",
+    "<a href=\"https://ouo.io/90T8nQ\">Download (665.5 MB)</a><br /><a href=\"https://ouo.io/lB7ABL\">Prologue Manga (110.5 MB)</a>",
+    "English & Chinese Version 19.08.28"
   ],
   [
     "v22543",
@@ -209287,12 +209377,21 @@
   ],
   [
     "v23180",
-    "<a href=\"https://vndb.org/v23180\"></a>",
+    "<a href=\"https://vndb.org/v23180\">Le Secret d'Henri</a>",
     "",
-    "",
+    "Beemoov",
     "",
     "",
     ""
+  ],
+  [
+    "v23180 (r57354)",
+    "Henri's Secret",
+    "2018-08-29",
+    "Beemoov<br />Eode",
+    "Beemoov",
+    "<a href=\"https://ouo.io/YYRcPJ\">Download (779.3 MB)</a>",
+    "English + French + Portuguese + German + Spanish + Russian Version 18.12.18<br />Change Language on .ini"
   ],
   [
     "v23181",
@@ -221167,12 +221266,21 @@
   ],
   [
     "v24496",
-    "<a href=\"https://vndb.org/v24496\"></a>",
+    "<a href=\"https://vndb.org/v24496\">Grotesque Beauty</a>",
     "",
-    "",
+    "Digital Bento",
     "",
     "",
     ""
+  ],
+  [
+    "v24496 (r66690)",
+    "Grotesque Beauty",
+    "2019-10-03",
+    "Digital Bento",
+    "Digital Bento",
+    "<a href=\"https://ouo.io/QsR5e82\">Download (303.1 MB)</a>",
+    "English Version 19.10.14"
   ],
   [
     "v24497",
@@ -225712,12 +225820,21 @@
   ],
   [
     "v24998",
-    "<a href=\"https://vndb.org/v24998\"></a>",
+    "<a href=\"https://vndb.org/v24998\">Yakumo Ikka to no Dokidoki Kyoudou Seikatsu<br />八雲一家とのドキドキ共同生活</a>",
     "",
-    "",
+    "Steel Doll",
     "",
     "",
     ""
+  ],
+  [
+    "v24998 (r61343)",
+    "Yakumo Ikka to no Dokidoki Kyoudou Seikatsu<br />八雲一家とのドキドキ共同生活",
+    "2018-12-30",
+    "Steel Doll",
+    "Steel Doll",
+    "<a href=\"https://ouo.io/Mrndui\">Download (706.8 MB)</a>",
+    "Japanese<br />MISSING Package Edition."
   ],
   [
     "v24999",
@@ -240328,12 +240445,21 @@
   ],
   [
     "v26602",
-    "<a href=\"https://vndb.org/v26602\"></a>",
+    "<a href=\"https://vndb.org/v26602\">Wanderlust Travel Stories</a>",
     "",
-    "",
+    "Different Tales",
     "",
     "",
     ""
+  ],
+  [
+    "v26602 (r66523)",
+    "Wanderlust Travel Stories",
+    "2019-09-26",
+    "Different Tales",
+    "Walkabout",
+    "<a href=\"https://ouo.io/kY2jcyQ\">Download (1022.4 MB)</a><br /><a href=\"https://ouo.io/or4SAb\">Wallpapers (198.8 MB)</a><br /><a href=\"https://ouo.io/LqA39SX\">Posters (67.6 MB)</a><br /><a href=\"https://ouo.io/NBPcBc\">Postcards (23.2 MB)</a>",
+    "English Version 1.5.11"
   ],
   [
     "v26603",
@@ -242524,12 +242650,21 @@
   ],
   [
     "v26839",
-    "<a href=\"https://vndb.org/v26839\"></a>",
+    "<a href=\"https://vndb.org/v26839\">Salting the Earth</a>",
     "",
-    "",
+    "BitterBerries",
     "",
     "",
     ""
+  ],
+  [
+    "v26839 (r67134)",
+    "Salting the Earth",
+    "2019-10-31",
+    "BitterBerries",
+    "BitterBerries",
+    "<a href=\"https://ouo.io/w7rTeD\">Download (270.1 MB)</a>",
+    "English"
   ],
   [
     "v26840",
@@ -242794,12 +242929,21 @@
   ],
   [
     "v26865",
-    "<a href=\"https://vndb.org/v26865\"></a>",
+    "<a href=\"https://vndb.org/v26865\">Wei Shu San Dian Wu<br />维数三点五</a>",
     "",
-    "",
+    "NPC S Studio",
     "",
     "",
     ""
+  ],
+  [
+    "v26865 (r67219)",
+    "Dimensionality 3.5",
+    "2019-11-02",
+    "",
+    "NPC S Studio",
+    "<a href=\"https://ouo.io/BiW1RM\">Download (372.3 MB)</a>",
+    "English & Chinese<br />Change Language in Settings."
   ],
   [
     "v26866",
@@ -242983,12 +243127,30 @@
   ],
   [
     "v26886",
-    "<a href=\"https://vndb.org/v26886\"></a>",
+    "<a href=\"https://vndb.org/v26886\">Aya to Koisuru Gensoukyou<br />文と恋する幻想郷</a>",
     "",
-    "",
+    "Suikaya-san<br />すいかやさん",
     "",
     "",
     ""
+  ],
+  [
+    "v26886 (r67262)",
+    "Aya to Koisuru Gensoukyou - Package Edition<br />文と恋する幻想郷 パッケージ版",
+    "2016-08-13",
+    "Suikaya-san<br />すいかやさん",
+    "Suikaya-san<br />すいかやさん",
+    "MISSING",
+    "Japanese"
+  ],
+  [
+    "v26886 (r67263)",
+    "Aya to Koisuru Gensoukyou - Download Edition<br />文と恋する幻想郷 ダウンロード版",
+    "2016-09-11",
+    "Suikaya-san<br />すいかやさん",
+    "Suikaya-san<br />すいかやさん",
+    "<a href=\"https://ouo.io/749R1d\">Download (344.1 MB)</a>",
+    "Japanese"
   ],
   [
     "v26887",
